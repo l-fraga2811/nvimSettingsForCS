@@ -1,0 +1,1 @@
+{"links":{"bin":{"netcoredbg.cmd":"netcoredbg\/netcoredbg.exe"},"opt":{},"share":{}},"metrics":{"start_time":1714516489447,"completion_time":1714516491276},"schema_version":"1.1","name":"netcoredbg","secondary_sources":[],"primary_source":{"type":"registry+v1","id":"pkg:github\/samsung\/netcoredbg@3.1.0-1031"}}

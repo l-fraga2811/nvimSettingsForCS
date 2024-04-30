@@ -1,0 +1,12 @@
+[INFO  30/04/2024 19:12:14] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=omnisharp) {}
+[INFO  30/04/2024 19:12:20] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=omnisharp)
+[INFO  30/04/2024 19:12:22] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=csharp-language-server) {}
+[INFO  30/04/2024 19:12:26] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=csharp-language-server)
+[INFO  30/04/2024 19:12:33] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=csharpier) {}
+[INFO  30/04/2024 19:12:35] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=csharpier)
+[INFO  30/04/2024 19:13:08] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=csharpier) {}
+[INFO  30/04/2024 19:13:11] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=csharpier)
+[INFO  30/04/2024 19:13:20] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=netcoredbg) {}
+[INFO  30/04/2024 19:13:22] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=netcoredbg)
+[INFO  30/04/2024 19:34:49] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=netcoredbg) {}
+[INFO  30/04/2024 19:34:51] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=netcoredbg)

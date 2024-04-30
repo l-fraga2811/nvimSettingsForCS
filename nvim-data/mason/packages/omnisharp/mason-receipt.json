@@ -1,0 +1,1 @@
+{"schema_version":"1.1","name":"omnisharp","primary_source":{"id":"pkg:github\/omnisharp\/omnisharp-roslyn@v1.39.11","type":"registry+v1"},"links":{"share":{"mason-schemas\\lsp\\omnisharp.json":"mason-schemas\\lsp.json"},"bin":{"omnisharp.cmd":"omnisharp.cmd"},"opt":{}},"metrics":{"start_time":1714515134758,"completion_time":1714515140454},"secondary_sources":[]}
